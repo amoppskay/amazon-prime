@@ -1,0 +1,1 @@
+//s3 for content delivery to cache static movies from cloudfront
